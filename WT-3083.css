@@ -1,0 +1,59 @@
+h1{
+    font-size: 36px !important; 
+}
+.resim{
+    height: 330px ;
+    width: 500px;
+    border-radius:20px;
+}
+
+.paragraf1{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10rem;
+}
+
+.resim2{
+    height: 40px !important;
+    width: 40px;
+    margin-left: 20rem;
+}
+
+.paragraf2{
+    margin-left: 23rem;
+    margin-top: -2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.altbaryazı{
+    font-size: 25px;
+    color: white;
+    margin-left: 4rem;
+    font-weight: 100;
+    
+}
+
+.altbaryazı-2{
+    font-size: 14px;
+    margin-left: 4rem;
+    margin-top: -1rem;
+}
+
+.search{
+    height: 50px;
+    width: 50px;
+}
+
+.paragraf-3{
+    margin-left: 12rem;
+}
+
+.paragraflar{
+    float:right;
+    display: flex;
+    margin-left: 4rem;
+}
+
+.paragraflar p{
+    margin-left:  10px;
+}
