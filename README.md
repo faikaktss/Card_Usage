@@ -1,40 +1,28 @@
-# Modern Bootstrap 5 Web Template
+# 🌐 Modern Bootstrap 5 Web Template
 
-This repository contains a stylish and responsive website template based on **Bootstrap 5**, designed for modern businesses. The template includes custom styling with `WT-3083.css` and `style.css`, and utilizes Bootstrap's grid system, navbar components, icons, and responsive utilities.
-
-## Project Structure
-
-```
-├── WT-3083-P.html
-├── WT-3083.css
-├── index.html
-└── style.css
-```
-
-## Features
-
-- Responsive layout using Bootstrap 5
-- Navbar with collapsible menu for smaller screens
-- Hero section with call-to-action buttons
-- Feature highlights with Bootstrap Icons
-- Client testimonial section
-- Blog card layout
-- Footer with links and newsletter form
-
-## Getting Started
-
-1. Clone or download the repository.
-2. Open `index.html` in your browser.
-3. Customize the content and styles as needed.
-
-## Screenshots
-
-![Website Screenshot](https://github.com/your-repo/image-path.png)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+A fully responsive and stylish **Bootstrap 5** web template designed for modern businesses and service providers.  
+With clean design, reusable components, and mobile-first responsiveness, this template is ideal for **gyms, fitness centers, startups, and corporate websites**.  
 
 ---
 
-> Suitable for gyms, fitness centers, or similar service providers.
+## ✨ Features
+
+- 📱 **Responsive Layout** — Powered by Bootstrap 5 Grid System  
+- 🧭 **Modern Navigation** — Collapsible navbar for smaller screens  
+- 🎯 **Hero Section** — Call-to-action buttons and attention-grabbing header  
+- ⭐ **Feature Highlights** — Icons and descriptions using Bootstrap Icons  
+- 💬 **Client Testimonials** — Showcase customer reviews  
+- 📰 **Blog Section** — Clean blog card layout  
+- 📩 **Footer & Newsletter** — Links, forms, and subscription integration  
+- 🎨 **Custom Styling** — Extendable via `WT-3083.css` and `style.css`  
+
+---
+
+## 📂 Project Structure
+
+```bash
+.
+├── WT-3083-P.html      # Alternative layout/demo page
+├── WT-3083.css         # Custom styles for template
+├── index.html          # Main landing page
+└── style.css           # Additional global styling
